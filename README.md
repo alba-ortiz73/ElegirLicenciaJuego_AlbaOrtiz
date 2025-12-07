@@ -13,14 +13,4 @@ He elegido el modelo de negocio mixto, en el cual los clientes pueden jugar los 
 
 ## Licencia
 He elegido la licencia GNU General Public License v3.0 para la distrinución del juego. Esta licencia permite el uso comercial por parte de las empresas qeue colaboren del software, lo que permite que revendan el juego que han comprado a los usuarios finales.
-Se puede modificar y distribuir el software siempre y cuando 
-<img width="1564" height="169" alt="imagen" src="https://github.com/user-attachments/assets/a08748ce-f45e-448c-bef4-e93dcdd48248" />
-
-
-
-
-# CONTESTAR:
-  ¿Por qué eliges esta licencia?
-  ¿Qué derechos das a otros?
-  ¿Qué limitaciones impones?
-  ¿Te conviene más a nivel económico y ético?
+Se puede modificar y distribuir el software siempre y cuando todos lo cambios sean compartidos y notificados a los propietarios del software. Esto hará que pueda saber todos lo cambios que han hecho al software terceras personas, lo cual puede ayudar a mejorar el software original o detectar nuevoss errores que pueden surgir de ciertas modificaciones. Además, si los clientes tienen problemas con alguna de las copias de software modificadas se puede saber quién es el responsable y qué se ha cambiado para que surjan esos problemas.
